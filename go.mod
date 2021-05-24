@@ -1,4 +1,4 @@
-module jubo.space/simple-go
+module example.com/simple-go
 
 go 1.15
 
